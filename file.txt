@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi my name is aditya
+=======
+Hey My name is aditya
+>>>>>>> feature
